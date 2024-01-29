@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliPero
 - 👀 I’m interested in frontend technologies
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Frontend Developer
+- 💞️ I’m looking to work as Frontend Developer
 
 
 <!---
